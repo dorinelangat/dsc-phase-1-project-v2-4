@@ -1,4 +1,7 @@
-# Microsoft's New Movie Studio
+# Microsoft's New Movie Studio Pitch
+By Dorine Langat
+
+![Microsoft](microsoft.png)
 
 ## Overview
 
@@ -91,7 +94,7 @@ Finally, we grouped our data by the film type and calculated the mean of their t
 ### Results, Conclusions & Recommendations.
 
 ##### Visual_1
-<img src = "studio_vs_gross.PNG">
+![Studio Gross Revenue](studio_vs_gross.PNG)
 
 From the results above, the top 5 five studios with the highest average gross per film are HC, P/DW, BV, GrtIndia, and WB. 
 
@@ -100,7 +103,7 @@ Based on these results, we can conclude that studios that make the highest reven
 Microsoft should therefore emulate what these top studios are doing different and even improve on some aspects to get ahead of the game.
 
 ##### Visual_2
-<img src = "popularity_vs_language.PNG">
+![Language Popularity](popularity_vs_language.png)
 
 From the results above, we can see that the popularity of a movie is not affected by the original language in which it was produced. This is beacause, despite English, French, and Spanish having the highest number of movies, some of their films are not as popular which explains why they don't appear among the top in the popularity list.
 
@@ -109,7 +112,7 @@ Based on these results, we can conclude that the popularity of a film is not det
 Microsoft should therefore create films on the basis of the target audience rather than focusing on the language. Moreover, films can always be translated to different languages to suit the target audience. 
 
 ##### Visual_3
-<img src = "budget_vs_gross.PNG">
+![Production Budget vs Gross Revenue](budget_vs_gross.PNG)
 
 From the results above, we can see that the production budget of a film has a positive correlation with the worldwide gross revenue. 
 
@@ -118,7 +121,7 @@ Based on these results, we can conclude that the higher the production budget, t
 Microsoft should therefore allocate sufficient resources to the creation of video content in order to realize a high revenue stream. These resources could include hiring of competent crew to ensure quality production of movies.
 
 ##### Visual_4
-<img src = "runtime_trend.PNG">
+![Runtime Trend](runtime_trend.PNG)
 
 From the results above, the runtime of films over the years has no significant difference. The runtime ranges between 75 - 150 minutes. The only difference noted here is the increase in the number of movies produced over the years. This could also indicate a competitive industry, or an increase in demand for video content.
 
@@ -127,7 +130,7 @@ Based on the results, we can conclude that the normal film runtime lies between 
 Therefore, Micrrosoft should stick to creating video content within that range.
 
 ##### Visual_5
-<img src = "people_vs_critics.PNG">
+![People vs Critics Score](people_vs_critics.PNG)
 
 From the results above, we can see that people's score has a positive correlation with critics' score. This indicates that the measure used by both categories are almost similar.
 
@@ -136,7 +139,7 @@ We can conclude that there are certain goals in film production that needs to be
 Therefore, Microsoft should tailor their movie production in such a way that it meets the desired goals, in order to increase their scores, which increases its popularity and eventually the revenue.
 
 ##### Visual_6
-<img src = "profitable_genres.PNG">
+![Most Profitble Genre](profitable_genres.PNG)
 
 The results indicate that the most profitable genres in the film industry are Science Fiction & Fantasy, Action & Adventure, and Kids & Family. 
 
